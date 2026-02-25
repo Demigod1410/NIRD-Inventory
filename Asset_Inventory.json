@@ -1,0 +1,2131 @@
+{
+  "metadata": {
+    "title": "Asset Inventory 2023-24",
+    "location": "RTP and Health Center",
+    "total_unique_items": 245,
+    "total_working": 834,
+    "total_non_working": 31,
+    "total_assets": 865,
+    "last_updated": "2023-24"
+  },
+  "categories": [
+    {
+      "category_name": "Appliances",
+      "total_items": 21,
+      "total_working": 21,
+      "total_non_working": 5,
+      "total_quantity": 26,
+      "subcategories": [
+        {
+          "subcategory_name": "Induction Cookers",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Induction Cooker",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Inverters/Power Backup",
+          "total_items": 5,
+          "total_working": 4,
+          "total_non_working": 2,
+          "total_quantity": 6,
+          "items": [
+            {
+              "item_name": "Solar inverter",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Solar Inverter",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            },
+            {
+              "item_name": "Inverter",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Solar Inverter 5KVA",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "5KVA Solar inverter",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Ovens",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 1,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Oven",
+              "working": 1,
+              "non_working": 1,
+              "total": 2
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Refrigerators",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Fridge(Double Door)",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Fridge(Single Door)",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Stoves/Cookers",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Stove",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Bio-gas stove",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Water Dispensers",
+          "total_items": 6,
+          "total_working": 8,
+          "total_non_working": 1,
+          "total_quantity": 9,
+          "items": [
+            {
+              "item_name": "Water Dispanser",
+              "working": 4,
+              "non_working": 0,
+              "total": 4
+            },
+            {
+              "item_name": "Water Dispansery",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "water Dispansers",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            },
+            {
+              "item_name": "dispenser",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Dispanser",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "water Dipanser",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Water Filters/Purifiers",
+          "total_items": 4,
+          "total_working": 3,
+          "total_non_working": 1,
+          "total_quantity": 4,
+          "items": [
+            {
+              "item_name": "water filter",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Water Purifier",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            },
+            {
+              "item_name": "water purifier",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "water filter DRDO model",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Computer Equipment",
+      "total_items": 13,
+      "total_working": 50,
+      "total_non_working": 2,
+      "total_quantity": 52,
+      "subcategories": [
+        {
+          "subcategory_name": "Desktop - CPU",
+          "total_items": 2,
+          "total_working": 11,
+          "total_non_working": 0,
+          "total_quantity": 11,
+          "items": [
+            {
+              "item_name": "CPU",
+              "working": 10,
+              "non_working": 0,
+              "total": 10
+            },
+            {
+              "item_name": "Cpu",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Desktop - Keyboard",
+          "total_items": 3,
+          "total_working": 9,
+          "total_non_working": 0,
+          "total_quantity": 9,
+          "items": [
+            {
+              "item_name": "Key Board",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            },
+            {
+              "item_name": "Key board",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Keyboard",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Desktop - Monitor",
+          "total_items": 2,
+          "total_working": 11,
+          "total_non_working": 0,
+          "total_quantity": 11,
+          "items": [
+            {
+              "item_name": "Monitor",
+              "working": 8,
+              "non_working": 0,
+              "total": 8
+            },
+            {
+              "item_name": "Monotor",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Desktop - Mouse",
+          "total_items": 1,
+          "total_working": 9,
+          "total_non_working": 0,
+          "total_quantity": 9,
+          "items": [
+            {
+              "item_name": "Mouse",
+              "working": 9,
+              "non_working": 0,
+              "total": 9
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Printers",
+          "total_items": 4,
+          "total_working": 9,
+          "total_non_working": 2,
+          "total_quantity": 11,
+          "items": [
+            {
+              "item_name": "Printer",
+              "working": 6,
+              "non_working": 1,
+              "total": 7
+            },
+            {
+              "item_name": "Printers",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Scaner cum printer",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Printer M1120",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Scanners",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Scaner",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Electronics - Cooling/Heating",
+      "total_items": 21,
+      "total_working": 64,
+      "total_non_working": 5,
+      "total_quantity": 69,
+      "subcategories": [
+        {
+          "subcategory_name": "Air Conditioners",
+          "total_items": 9,
+          "total_working": 9,
+          "total_non_working": 0,
+          "total_quantity": 9,
+          "items": [
+            {
+              "item_name": "Coffie making machine",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Window AC ",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Bottle cleaning Machie",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Brick Strenth testing Machine",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Air conditioner",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Brick Making machine",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Grass cutting machines",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Weighing Machine-Digital",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Weight machine",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Air Coolers",
+          "total_items": 3,
+          "total_working": 12,
+          "total_non_working": 5,
+          "total_quantity": 17,
+          "items": [
+            {
+              "item_name": "Cooler",
+              "working": 11,
+              "non_working": 4,
+              "total": 15
+            },
+            {
+              "item_name": "Cooler Symphani",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            },
+            {
+              "item_name": "Coolers",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Fans - Ceiling",
+          "total_items": 2,
+          "total_working": 29,
+          "total_non_working": 0,
+          "total_quantity": 29,
+          "items": [
+            {
+              "item_name": "Fans",
+              "working": 25,
+              "non_working": 0,
+              "total": 25
+            },
+            {
+              "item_name": "Fan",
+              "working": 4,
+              "non_working": 0,
+              "total": 4
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Fans - Exhaust",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Exhaust Fan",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Fans - Pedestal",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Pedastal Fans",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Pedastal Fan",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Fans - Wall Mounted",
+          "total_items": 4,
+          "total_working": 11,
+          "total_non_working": 0,
+          "total_quantity": 11,
+          "items": [
+            {
+              "item_name": "Wall mounted Fans",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            },
+            {
+              "item_name": "Wall mounted fans",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Wall Mounted Fan",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Wall mounted Fan",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Electronics - Office",
+      "total_items": 16,
+      "total_working": 29,
+      "total_non_working": 2,
+      "total_quantity": 31,
+      "subcategories": [
+        {
+          "subcategory_name": "Audio Systems",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Audio System",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Audio Visual - Amplifiers/Receivers",
+          "total_items": 3,
+          "total_working": 3,
+          "total_non_working": 0,
+          "total_quantity": 3,
+          "items": [
+            {
+              "item_name": "Amplifier ",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Receiver",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Amplifier",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Audio Visual - Microphones",
+          "total_items": 4,
+          "total_working": 4,
+          "total_non_working": 0,
+          "total_quantity": 4,
+          "items": [
+            {
+              "item_name": "Mick Stand",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Mic recever",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Mic",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Weighing Machine-Dynamic",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Audio Visual - Projectors",
+          "total_items": 3,
+          "total_working": 4,
+          "total_non_working": 0,
+          "total_quantity": 4,
+          "items": [
+            {
+              "item_name": "Projector Screen",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "LCD Projector",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "NEC Projector",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Audio Visual - Speakers",
+          "total_items": 3,
+          "total_working": 14,
+          "total_non_working": 0,
+          "total_quantity": 14,
+          "items": [
+            {
+              "item_name": "Speakers",
+              "working": 7,
+              "non_working": 0,
+              "total": 7
+            },
+            {
+              "item_name": "Pspeakers",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            },
+            {
+              "item_name": "Speaker Box",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Copy/Xerox Machines",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 1,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Xerox Machine",
+              "working": 1,
+              "non_working": 1,
+              "total": 2
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Display - TV",
+          "total_items": 1,
+          "total_working": 2,
+          "total_non_working": 1,
+          "total_quantity": 3,
+          "items": [
+            {
+              "item_name": "TV",
+              "working": 2,
+              "non_working": 1,
+              "total": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Furniture",
+      "total_items": 118,
+      "total_working": 420,
+      "total_non_working": 6,
+      "total_quantity": 426,
+      "subcategories": [
+        {
+          "subcategory_name": "Chairs - Cane/Bamboo",
+          "total_items": 4,
+          "total_working": 8,
+          "total_non_working": 0,
+          "total_quantity": 8,
+          "items": [
+            {
+              "item_name": "Cane chairs",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Cane Chairs",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Cane Chair",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Bamboo Chair",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Chairs - General",
+          "total_items": 16,
+          "total_working": 46,
+          "total_non_working": 1,
+          "total_quantity": 47,
+          "items": [
+            {
+              "item_name": "S Chair",
+              "working": 12,
+              "non_working": 0,
+              "total": 12
+            },
+            {
+              "item_name": "S Chairs",
+              "working": 8,
+              "non_working": 0,
+              "total": 8
+            },
+            {
+              "item_name": "S Type Chair(netted)",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            },
+            {
+              "item_name": "Iron two seater",
+              "working": 5,
+              "non_working": 0,
+              "total": 5
+            },
+            {
+              "item_name": "S Chairs wired",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Iron Chairs(2Seater)",
+              "working": 1,
+              "non_working": 1,
+              "total": 2
+            },
+            {
+              "item_name": "Iron three seater",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "S type chair(netted)",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "S type office chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Garden Chair Set",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "System Chair/Computer chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Soafa Chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "System Chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Folding Iron Chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "visiting chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Visiting chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Chairs - Plastic",
+          "total_items": 6,
+          "total_working": 48,
+          "total_non_working": 1,
+          "total_quantity": 49,
+          "items": [
+            {
+              "item_name": "Plastic Chairs",
+              "working": 16,
+              "non_working": 0,
+              "total": 16
+            },
+            {
+              "item_name": "Palstic Chair",
+              "working": 15,
+              "non_working": 0,
+              "total": 15
+            },
+            {
+              "item_name": "Plastic Chair",
+              "working": 9,
+              "non_working": 0,
+              "total": 9
+            },
+            {
+              "item_name": "Pastick Chairs",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            },
+            {
+              "item_name": "Plastick Chairs",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Plastic chairs small",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Chairs - Revolving/Office",
+          "total_items": 6,
+          "total_working": 32,
+          "total_non_working": 0,
+          "total_quantity": 32,
+          "items": [
+            {
+              "item_name": "Revolving Chair",
+              "working": 21,
+              "non_working": 0,
+              "total": 21
+            },
+            {
+              "item_name": "Revolving Chairs",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Revolving chair",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Revolwing chair",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Revolving Stool",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Revolving stool",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Chairs - School/Study",
+          "total_items": 2,
+          "total_working": 77,
+          "total_non_working": 0,
+          "total_quantity": 77,
+          "items": [
+            {
+              "item_name": "Study Chair",
+              "working": 57,
+              "non_working": 0,
+              "total": 57
+            },
+            {
+              "item_name": "School Benches",
+              "working": 20,
+              "non_working": 0,
+              "total": 20
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Chairs - Sofa/Couch",
+          "total_items": 7,
+          "total_working": 12,
+          "total_non_working": 1,
+          "total_quantity": 13,
+          "items": [
+            {
+              "item_name": "Sofa",
+              "working": 4,
+              "non_working": 1,
+              "total": 5
+            },
+            {
+              "item_name": "Sofa set",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": " Sofa 2Seater",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Sofa 2Seater",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Cane Sofa Set",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Cane Sofa set",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "sofa set",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Chairs - Stools",
+          "total_items": 4,
+          "total_working": 48,
+          "total_non_working": 0,
+          "total_quantity": 48,
+          "items": [
+            {
+              "item_name": "Stools",
+              "working": 41,
+              "non_working": 0,
+              "total": 41
+            },
+            {
+              "item_name": "Iron Stool",
+              "working": 5,
+              "non_working": 0,
+              "total": 5
+            },
+            {
+              "item_name": "Small Iron stool",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Woodens stool",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Stands/Racks",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Kitchen stand",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Storage - Book Shelves/Racks",
+          "total_items": 5,
+          "total_working": 6,
+          "total_non_working": 0,
+          "total_quantity": 6,
+          "items": [
+            {
+              "item_name": "Glass book Rack",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Iron Rack/ Book Seves",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron Rack/book selves",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron Book Rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Glass book rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Storage - General",
+          "total_items": 6,
+          "total_working": 37,
+          "total_non_working": 0,
+          "total_quantity": 37,
+          "items": [
+            {
+              "item_name": "Almirah",
+              "working": 19,
+              "non_working": 0,
+              "total": 19
+            },
+            {
+              "item_name": "Almaries",
+              "working": 8,
+              "non_working": 0,
+              "total": 8
+            },
+            {
+              "item_name": "Almara",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            },
+            {
+              "item_name": "Coier Rack",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Small Rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "AV Rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Storage - Glass Cabinets",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Glass Almara",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Glass Cabinet",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Storage - Iron Racks/Almirahs",
+          "total_items": 11,
+          "total_working": 16,
+          "total_non_working": 0,
+          "total_quantity": 16,
+          "items": [
+            {
+              "item_name": "Iron Rack",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Iron Rack/Almara small size)",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Iron Rack-Big",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Iron Rack-Big small",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Iron Rack/Almarah",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron Rack/cup board sliding",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron with wooden small rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron Rack 6shelfs",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron Rack 5shelfs",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron rack s shelfs",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Storage - Wooden Racks",
+          "total_items": 7,
+          "total_working": 6,
+          "total_non_working": 2,
+          "total_quantity": 8,
+          "items": [
+            {
+              "item_name": "Wooden Rack",
+              "working": 0,
+              "non_working": 2,
+              "total": 2
+            },
+            {
+              "item_name": "Wooden Rack Big",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Wooden Rack small",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Small Wooden Rack/side rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Wooden Rack long",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "wooden Rack",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "wooden cobbord",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tables - Computer/System",
+          "total_items": 10,
+          "total_working": 22,
+          "total_non_working": 1,
+          "total_quantity": 23,
+          "items": [
+            {
+              "item_name": "System Table",
+              "working": 5,
+              "non_working": 1,
+              "total": 6
+            },
+            {
+              "item_name": "System tables",
+              "working": 5,
+              "non_working": 0,
+              "total": 5
+            },
+            {
+              "item_name": "Computor Table",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Computer Table",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Computer table",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Table/System table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "System Tables",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "system Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "System table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Small Computer table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tables - General",
+          "total_items": 17,
+          "total_working": 32,
+          "total_non_working": 0,
+          "total_quantity": 32,
+          "items": [
+            {
+              "item_name": "Small Table",
+              "working": 5,
+              "non_working": 0,
+              "total": 5
+            },
+            {
+              "item_name": "Table",
+              "working": 5,
+              "non_working": 0,
+              "total": 5
+            },
+            {
+              "item_name": "wooden Small Table/side table",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Tables big size",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Table Big size",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Small Table/side table",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Round Tables",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Small Table/center table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": " Small Rack/side table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Bamboo side table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Vegetable stand",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Garden Table set",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "table small",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Arc Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "One Big Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Dressing Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "wooden old table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tables - Medical/Examination",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Exmamin table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Examination Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tables - Meeting/Conference",
+          "total_items": 2,
+          "total_working": 3,
+          "total_non_working": 0,
+          "total_quantity": 3,
+          "items": [
+            {
+              "item_name": "Meeting Tables",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Meeting Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tables - Office",
+          "total_items": 6,
+          "total_working": 18,
+          "total_non_working": 0,
+          "total_quantity": 18,
+          "items": [
+            {
+              "item_name": "Iron Office Table",
+              "working": 8,
+              "non_working": 0,
+              "total": 8
+            },
+            {
+              "item_name": "Iron office Table",
+              "working": 4,
+              "non_working": 0,
+              "total": 4
+            },
+            {
+              "item_name": "Iron Table",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Iron table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron long desk",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Big Iron Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tables - Tea/Side Tables",
+          "total_items": 4,
+          "total_working": 4,
+          "total_non_working": 0,
+          "total_quantity": 4,
+          "items": [
+            {
+              "item_name": "Teapoy table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Cane teapoy table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Glass Teapoy table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Cane Teapoy Table",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "IT Equipment",
+      "total_items": 1,
+      "total_working": 1,
+      "total_non_working": 0,
+      "total_quantity": 1,
+      "subcategories": [
+        {
+          "subcategory_name": "Network Equipment",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Wifi Router",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Lighting",
+      "total_items": 6,
+      "total_working": 68,
+      "total_non_working": 0,
+      "total_quantity": 68,
+      "subcategories": [
+        {
+          "subcategory_name": "Street Lights",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Street Light",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Tube Lights",
+          "total_items": 5,
+          "total_working": 67,
+          "total_non_working": 0,
+          "total_quantity": 67,
+          "items": [
+            {
+              "item_name": "Tube Lights",
+              "working": 38,
+              "non_working": 0,
+              "total": 38
+            },
+            {
+              "item_name": "Tube lights",
+              "working": 21,
+              "non_working": 0,
+              "total": 21
+            },
+            {
+              "item_name": "Tubelights",
+              "working": 4,
+              "non_working": 0,
+              "total": 4
+            },
+            {
+              "item_name": "Tuble Lights",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Tube Light",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Medical Equipment",
+      "total_items": 7,
+      "total_working": 12,
+      "total_non_working": 0,
+      "total_quantity": 12,
+      "subcategories": [
+        {
+          "subcategory_name": "Beds/Cots",
+          "total_items": 6,
+          "total_working": 11,
+          "total_non_working": 0,
+          "total_quantity": 11,
+          "items": [
+            {
+              "item_name": "Beds",
+              "working": 5,
+              "non_working": 0,
+              "total": 5
+            },
+            {
+              "item_name": "Bed",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Cot with Bed Double",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Bamboo Bed",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Bamboo cot",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Brooden Bed",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Mobility Aids",
+          "total_items": 1,
+          "total_working": 1,
+          "total_non_working": 0,
+          "total_quantity": 1,
+          "items": [
+            {
+              "item_name": "Wheel Chair",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Miscellaneous",
+      "total_items": 24,
+      "total_working": 32,
+      "total_non_working": 1,
+      "total_quantity": 33,
+      "subcategories": [
+        {
+          "subcategory_name": "Other Items",
+          "total_items": 24,
+          "total_working": 32,
+          "total_non_working": 1,
+          "total_quantity": 33,
+          "items": [
+            {
+              "item_name": "Water Dispansor",
+              "working": 3,
+              "non_working": 0,
+              "total": 3
+            },
+            {
+              "item_name": "Teepai",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Computer Tabvles",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Picock Chars",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "2000 liters water tanks",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Iron Drum",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Bamboo teapoy",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Pillow",
+              "working": 2,
+              "non_working": 0,
+              "total": 2
+            },
+            {
+              "item_name": "Bio Matric device",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Water Shed model",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Water dispansor",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Stablizer",
+              "working": 0,
+              "non_working": 1,
+              "total": 1
+            },
+            {
+              "item_name": "500Liters/Hour RO Plant Unit",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "100 Liters Plastic Drum",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "western commode",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron chulha",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Iron chimini",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Dinner set",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Netmeter",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "DB Box",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Chain pulli",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Power tiller",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Leaf shudder",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Antique Seive(Jallada)\n",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Office Equipment",
+      "total_items": 5,
+      "total_working": 18,
+      "total_non_working": 0,
+      "total_quantity": 18,
+      "subcategories": [
+        {
+          "subcategory_name": "Display Boards",
+          "total_items": 1,
+          "total_working": 6,
+          "total_non_working": 0,
+          "total_quantity": 6,
+          "items": [
+            {
+              "item_name": "Dg Bunglow Display Boards",
+              "working": 6,
+              "non_working": 0,
+              "total": 6
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Notice Boards",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Notice board",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Notice Board",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "White Boards",
+          "total_items": 2,
+          "total_working": 10,
+          "total_non_working": 0,
+          "total_quantity": 10,
+          "items": [
+            {
+              "item_name": "White Board",
+              "working": 9,
+              "non_working": 0,
+              "total": 9
+            },
+            {
+              "item_name": "White Boards",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Specialized Equipment",
+      "total_items": 10,
+      "total_working": 116,
+      "total_non_working": 10,
+      "total_quantity": 126,
+      "subcategories": [
+        {
+          "subcategory_name": "Batteries/Power Storage",
+          "total_items": 2,
+          "total_working": 0,
+          "total_non_working": 10,
+          "total_quantity": 10,
+          "items": [
+            {
+              "item_name": "Batteries",
+              "working": 0,
+              "non_working": 8,
+              "total": 8
+            },
+            {
+              "item_name": "Battery operated vehicle",
+              "working": 0,
+              "non_working": 2,
+              "total": 2
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Biogas Systems",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Biogas plant",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Bio-gas Unit",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Hydroponic Systems",
+          "total_items": 1,
+          "total_working": 18,
+          "total_non_working": 0,
+          "total_quantity": 18,
+          "items": [
+            {
+              "item_name": "Hydro Phonic Stands",
+              "working": 18,
+              "non_working": 0,
+              "total": 18
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Industrial Machines",
+          "total_items": 2,
+          "total_working": 2,
+          "total_non_working": 0,
+          "total_quantity": 2,
+          "items": [
+            {
+              "item_name": "Mono block motor",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Compressor",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        },
+        {
+          "subcategory_name": "Solar Power Systems",
+          "total_items": 3,
+          "total_working": 94,
+          "total_non_working": 0,
+          "total_quantity": 94,
+          "items": [
+            {
+              "item_name": "Solar pannel",
+              "working": 72,
+              "non_working": 0,
+              "total": 72
+            },
+            {
+              "item_name": "Solar panels",
+              "working": 14,
+              "non_working": 0,
+              "total": 14
+            },
+            {
+              "item_name": "Solar batteries",
+              "working": 8,
+              "non_working": 0,
+              "total": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Tools & Equipment",
+      "total_items": 3,
+      "total_working": 3,
+      "total_non_working": 0,
+      "total_quantity": 3,
+      "subcategories": [
+        {
+          "subcategory_name": "Ladders",
+          "total_items": 3,
+          "total_working": 3,
+          "total_non_working": 0,
+          "total_quantity": 3,
+          "items": [
+            {
+              "item_name": "Ladder 12'",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Ladder 25'",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            },
+            {
+              "item_name": "Ladder 20'",
+              "working": 1,
+              "non_working": 0,
+              "total": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
