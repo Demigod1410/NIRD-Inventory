@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
-import Calendar from "@/components/Calender";
+import DatePicker from "@/components/DatePicker";
 
 export default function AddInventory() {
   const [formData, setFormData] = useState({
@@ -221,7 +221,7 @@ export default function AddInventory() {
                     </div>
 
                     {/* Purchase Date */}
-                    <Calendar
+                    <DatePicker
                       label="Purchase Date"
                       name="purchaseDate"
                       value={formData.purchaseDate}
@@ -285,13 +285,13 @@ export default function AddInventory() {
                     </div>
 
                     {/* Warranty Expiry Date */}
-                    <Calendar
+                    <DatePicker
                       label="Warranty Expiry Date"
                       name="warrantyExpiryDate"
                       value={formData.warrantyExpiryDate}
                       onChange={handleChange}
-                      className="mb-0"
                       min={formData.purchaseDate}
+                      className="mb-0"
                     />
 
                     {/* Status */}
