@@ -1,0 +1,182 @@
+[
+  {
+    "product_name": "Latitude 7420",
+    "product_manufacture": "Dell",
+    "product_ID": "01",
+    "product_type": "Laptop"
+  },
+  {
+    "product_name": "MacBook Pro 16-inch",
+    "product_manufacture": "Apple",
+    "product_ID": "02",
+    "product_type": "Laptop"
+  },
+  {
+    "product_name": "ThinkPad X1 Carbon Gen 9",
+    "product_manufacture": "Lenovo",
+    "product_ID": "03",
+    "product_type": "Laptop"
+  },
+  {
+    "product_name": "HP Spectre x360",
+    "product_manufacture": "HP",
+    "product_ID": "04",
+    "product_type": "Laptop"
+  },
+  {
+    "product_name": "LaserJet Pro M404dn",
+    "product_manufacture": "HP",
+    "product_ID": "05",
+    "product_type": "Printer"
+  },
+  {
+    "product_name": "imageCLASS MF743Cdw",
+    "product_manufacture": "Canon",
+    "product_ID": "06",
+    "product_type": "Printer"
+  },
+  {
+    "product_name": "EcoTank ET-3760",
+    "product_manufacture": "Epson",
+    "product_ID": "07",
+    "product_type": "Printer"
+  },
+  {
+    "product_name": "Nighthawk AX12",
+    "product_manufacture": "Netgear",
+    "product_ID": "08",
+    "product_type": "WiFi Router"
+  },
+  {
+    "product_name": "Archer AX6000",
+    "product_manufacture": "TP-Link",
+    "product_ID": "09",
+    "product_type": "WiFi Router"
+  },
+  {
+    "product_name": "Catalyst 9120AX",
+    "product_manufacture": "Cisco",
+    "product_ID": "10",
+    "product_type": "WiFi Router"
+  },
+  {
+    "product_name": "OptiPlex 7090",
+    "product_manufacture": "Dell",
+    "product_ID": "11",
+    "product_type": "Desktop Computer"
+  },
+  {
+    "product_name": "iMac 27-inch",
+    "product_manufacture": "Apple",
+    "product_ID": "12",
+    "product_type": "Desktop Computer"
+  },
+  {
+    "product_name": "ThinkCentre M90q",
+    "product_manufacture": "Lenovo",
+    "product_ID": "13",
+    "product_type": "Desktop Computer"
+  },
+  {
+    "product_name": "UltraSharp U2721DE",
+    "product_manufacture": "Dell",
+    "product_ID": "14",
+    "product_type": "Monitor"
+  },
+  {
+    "product_name": "LG 34WK95U-W",
+    "product_manufacture": "LG",
+    "product_ID": "15",
+    "product_type": "Monitor"
+  },
+  {
+    "product_name": "MX Keys",
+    "product_manufacture": "Logitech",
+    "product_ID": "16",
+    "product_type": "Keyboard"
+  },
+  {
+    "product_name": "Magic Keyboard",
+    "product_manufacture": "Apple",
+    "product_ID": "17",
+    "product_type": "Keyboard"
+  },
+  {
+    "product_name": "MX Master 3",
+    "product_manufacture": "Logitech",
+    "product_ID": "18",
+    "product_type": "Mouse"
+  },
+  {
+    "product_name": "C920 HD Pro",
+    "product_manufacture": "Logitech",
+    "product_ID": "19",
+    "product_type": "Webcam"
+  },
+  {
+    "product_name": "WH-1000XM4",
+    "product_manufacture": "Sony",
+    "product_ID": "20",
+    "product_type": "Headset"
+  },
+  {
+    "product_name": "PowerEdge R740",
+    "product_manufacture": "Dell",
+    "product_ID": "21",
+    "product_type": "Server"
+  },
+  {
+    "product_name": "ProLiant DL380 Gen10",
+    "product_manufacture": "HP",
+    "product_ID": "22",
+    "product_type": "Server"
+  },
+  {
+    "product_name": "Catalyst 2960X",
+    "product_manufacture": "Cisco",
+    "product_ID": "23",
+    "product_type": "Switch"
+  },
+  {
+    "product_name": "PowerLite 1288",
+    "product_manufacture": "Epson",
+    "product_ID": "24",
+    "product_type": "Projector"
+  },
+  {
+    "product_name": "ScanJet Pro 3000 s4",
+    "product_manufacture": "HP",
+    "product_ID": "25",
+    "product_type": "Scanner"
+  },
+  {
+    "product_name": "Surface Laptop 4",
+    "product_manufacture": "Microsoft",
+    "product_ID": "26",
+    "product_type": "Laptop"
+  },
+  {
+    "product_name": "ROG Zephyrus G14",
+    "product_manufacture": "Asus",
+    "product_ID": "27",
+    "product_type": "Laptop"
+  },
+  {
+    "product_name": "Brother HL-L2395DW",
+    "product_manufacture": "Brother",
+    "product_ID": "28",
+    "product_type": "Printer"
+  },
+  {
+    "product_name": "Orbi RBK852",
+    "product_manufacture": "Netgear",
+    "product_ID": "29",
+    "product_type": "WiFi Router"
+  },
+  {
+    "product_name": "Pavilion 27 All-in-One",
+    "product_manufacture": "HP",
+    "product_ID": "30",
+    "product_type": "Desktop Computer"
+  }
+]
