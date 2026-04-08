@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+import employeesData from "../../../Employee.json";
 
 export default function EmployeeWiseInventory() {
   // Employee data (same as in map-inventory-employee)
@@ -12,13 +13,7 @@ export default function EmployeeWiseInventory() {
     "Visiting Faculty",
   ]);
 
-  const [employees] = useState([
-    { id: 1, name: "John Doe", type: "Permanent Staff", department: "IT" },
-    { id: 2, name: "Jane Smith", type: "Contract Staff", department: "Admin" },
-    { id: 3, name: "Robert Johnson", type: "Permanent Staff", department: "HR" },
-    { id: 4, name: "Emily Davis", type: "Consultant", department: "Finance" },
-    { id: 5, name: "Michael Brown", type: "Intern", department: "IT" },
-  ]);
+  const [employees] = useState(employeesData);
 
   // Sample inventory items with employee allocations
   const [inventoryItems] = useState([
@@ -28,7 +23,7 @@ export default function EmployeeWiseInventory() {
       category: "Laptop", 
       serialNumber: "DL001", 
       manufacturer: "Dell", 
-      allottedToId: 1, 
+      allottedToId: 101, 
       allottedTo: "John Doe",
       allottedDate: "2024-01-15" 
     },
@@ -38,7 +33,7 @@ export default function EmployeeWiseInventory() {
       category: "Printer", 
       serialNumber: "HP001", 
       manufacturer: "HP", 
-      allottedToId: 2, 
+      allottedToId: 102, 
       allottedTo: "Jane Smith",
       allottedDate: "2024-02-10" 
     },
@@ -48,7 +43,7 @@ export default function EmployeeWiseInventory() {
       category: "Computer", 
       serialNumber: "LN001", 
       manufacturer: "Lenovo", 
-      allottedToId: 1, 
+      allottedToId: 101, 
       allottedTo: "John Doe",
       allottedDate: "2024-01-20" 
     },
@@ -58,7 +53,7 @@ export default function EmployeeWiseInventory() {
       category: "Monitor", 
       serialNumber: "DL002", 
       manufacturer: "Dell", 
-      allottedToId: 3, 
+      allottedToId: 103, 
       allottedTo: "Robert Johnson",
       allottedDate: "2024-01-25" 
     },
@@ -68,7 +63,7 @@ export default function EmployeeWiseInventory() {
       category: "Laptop", 
       serialNumber: "HP002", 
       manufacturer: "HP", 
-      allottedToId: 1, 
+      allottedToId: 101, 
       allottedTo: "John Doe",
       allottedDate: "2024-02-01" 
     },
@@ -78,7 +73,7 @@ export default function EmployeeWiseInventory() {
       category: "Scanner", 
       serialNumber: "CN001", 
       manufacturer: "Canon", 
-      allottedToId: 4, 
+      allottedToId: 104, 
       allottedTo: "Emily Davis",
       allottedDate: "2024-02-05" 
     },
@@ -88,7 +83,7 @@ export default function EmployeeWiseInventory() {
       category: "Keyboard", 
       serialNumber: "LG001", 
       manufacturer: "Logitech", 
-      allottedToId: 2, 
+      allottedToId: 102, 
       allottedTo: "Jane Smith",
       allottedDate: "2024-02-15" 
     },
@@ -98,7 +93,7 @@ export default function EmployeeWiseInventory() {
       category: "Mouse", 
       serialNumber: "DL003", 
       manufacturer: "Dell", 
-      allottedToId: 5, 
+      allottedToId: 105, 
       allottedTo: "Michael Brown",
       allottedDate: "2024-03-01" 
     },
@@ -155,7 +150,7 @@ export default function EmployeeWiseInventory() {
   };
 
   const selectedEmployee = employees.find(
-    (emp) => emp.id === parseInt(formData.employeeId)
+    (emp) => emp.emp_id === parseInt(formData.employeeId)
   );
 
   return (
@@ -217,8 +212,8 @@ export default function EmployeeWiseInventory() {
                       >
                         <option value="">Choose employee...</option>
                         {availableEmployees.map((employee) => (
-                          <option key={employee.id} value={employee.id}>
-                            {employee.name} - {employee.department}
+                          <option key={employee.emp_id} value={employee.emp_id}>
+                            {employee.emp_name} - {employee.department}
                           </option>
                         ))}
                       </select>
@@ -252,7 +247,7 @@ export default function EmployeeWiseInventory() {
             <div className="card shadow">
               <div className="card-header bg-info text-white py-3">
                 <h3 className="mb-0">
-                  Items Allotted to {selectedEmployee?.name}
+                  Items Allotted to {selectedEmployee?.emp_name}
                   {selectedEmployee && (
                     <span className="ms-2">
                       <small className="badge bg-white text-info">
@@ -267,7 +262,7 @@ export default function EmployeeWiseInventory() {
                 {filteredItems.length === 0 ? (
                   <div className="alert alert-warning text-center py-4">
                     <h5 className="mb-0">
-                      No items allotted to {selectedEmployee?.name}
+                      No items allotted to {selectedEmployee?.emp_name}
                     </h5>
                   </div>
                 ) : (
@@ -306,7 +301,7 @@ export default function EmployeeWiseInventory() {
                     <div className="mt-3">
                       <div className="alert alert-info mb-0">
                         <strong>{filteredItems.length}</strong> item(s) allotted to{" "}
-                        {selectedEmployee?.name}
+                        {selectedEmployee?.emp_name}
                       </div>
                     </div>
                   </>
