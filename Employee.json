@@ -1,0 +1,122 @@
+[
+  {
+    "emp_id": 101,
+    "emp_name": "John Doe",
+    "type": "Permanent Staff",
+    "department": "IT"
+  },
+  {
+    "emp_id": 102,
+    "emp_name": "Jane Smith",
+    "type": "Contract Staff",
+    "department": "Admin"
+  },
+  {
+    "emp_id": 103,
+    "emp_name": "Robert Johnson",
+    "type": "Permanent Staff",
+    "department": "HR"
+  },
+  {
+    "emp_id": 104,
+    "emp_name": "Emily Davis",
+    "type": "Consultant",
+    "department": "Finance"
+  },
+  {
+    "emp_id": 105,
+    "emp_name": "Michael Brown",
+    "type": "Intern",
+    "department": "IT"
+  },
+  {
+    "emp_id": 106,
+    "emp_name": "Sarah Wilson",
+    "type": "Permanent Staff",
+    "department": "Marketing"
+  },
+  {
+    "emp_id": 107,
+    "emp_name": "David Lee",
+    "type": "Contract Staff",
+    "department": "Sales"
+  },
+  {
+    "emp_id": 108,
+    "emp_name": "Lisa Garcia",
+    "type": "Consultant",
+    "department": "HR"
+  },
+  {
+    "emp_id": 109,
+    "emp_name": "James Martinez",
+    "type": "Intern",
+    "department": "Finance"
+  },
+  {
+    "emp_id": 110,
+    "emp_name": "Anna Taylor",
+    "type": "Permanent Staff",
+    "department": "Admin"
+  },
+  {
+    "emp_id": 111,
+    "emp_name": "Chris Anderson",
+    "type": "Contract Staff",
+    "department": "IT"
+  },
+  {
+    "emp_id": 112,
+    "emp_name": "Rachel Thomas",
+    "type": "Consultant",
+    "department": "Marketing"
+  },
+  {
+    "emp_id": 113,
+    "emp_name": "Kevin Jackson",
+    "type": "Permanent Staff",
+    "department": "Sales"
+  },
+  {
+    "emp_id": 114,
+    "emp_name": "Michelle White",
+    "type": "Intern",
+    "department": "HR"
+  },
+  {
+    "emp_id": 115,
+    "emp_name": "Brian Harris",
+    "type": "Contract Staff",
+    "department": "Finance"
+  },
+  {
+    "emp_id": 116,
+    "emp_name": "Amanda Clark",
+    "type": "Permanent Staff",
+    "department": "Admin"
+  },
+  {
+    "emp_id": 117,
+    "emp_name": "Steven Lewis",
+    "type": "Consultant",
+    "department": "IT"
+  },
+  {
+    "emp_id": 118,
+    "emp_name": "Jessica Robinson",
+    "type": "Intern",
+    "department": "Marketing"
+  },
+  {
+    "emp_id": 119,
+    "emp_name": "Daniel Walker",
+    "type": "Contract Staff",
+    "department": "Sales"
+  },
+  {
+    "emp_id": 120,
+    "emp_name": "Olivia Hall",
+    "type": "Permanent Staff",
+    "department": "HR"
+  }
+]
